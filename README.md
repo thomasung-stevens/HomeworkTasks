@@ -1,3 +1,2 @@
 # HomeworkTasks
-- [x] Task 1
-- [ ] Task 2
+See the Tasks issue to see what the homework 1 tasks are and which are completed.
